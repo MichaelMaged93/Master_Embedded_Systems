@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "e:/GITHUB/Master_Embedded_Systems/FirstTerm/Unit_2_C_Programming/C_Basics/EX1_C_Program_To_Print_Sentence",
+      "program": "e:/GITHUB/Master_Embedded_Systems/FirstTerm/Unit_2_C_Programming/C_Basics/EX1_C_Program_To_Print_Sentence/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
